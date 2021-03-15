@@ -1,0 +1,5 @@
+mode: set
+github.com/BeAce/go-utils/hello/sum.go:3.24,4.11 1 1
+github.com/BeAce/go-utils/hello/sum.go:7.2,7.14 1 1
+github.com/BeAce/go-utils/hello/sum.go:4.11,6.3 1 0
+github.com/BeAce/go-utils/hello/sum.go:10.26,12.2 1 1

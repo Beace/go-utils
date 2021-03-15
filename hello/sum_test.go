@@ -9,9 +9,9 @@ func TestSum(t *testing.T) {
 		t.Errorf("Sum() = %q, want %q", got, want)
 	}
 
-	/*if got := Sum(2,1); got != 1 {
+	if got := Sum(2,1); got != 1 {
 		t.Errorf("Sum() = %q, want %q", got, want)
-	}*/
+	}
 }
 
 
